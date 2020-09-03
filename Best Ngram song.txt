@@ -1,0 +1,60 @@
+Ngram best song statistics
+
+{'lines': 50, 'words_per_line': 7, 'stanza': 5, 'lines_per_stanza': 10, 'chars': 1787, 'words': 351}
+(39, ["ain't", 'another', 'around', 'baby', 'cause', 'crazy', 'dream', 'fall', 'feel', 'game', 'good', 'got', 'gotta', 'keep', 'know', 'la', 'lie', 'life', 'love', 'make', 'move', 'much', 'never', 'now', 'oh', 'one', 'put', 'real', 'ride', 'run', 'say', 'stop', 'time', 'told', 'turn', 'two', 'want', 'way', 'will'])
+
+paint the sky
+dream on, dream on 
+tryin' to say... 
+
+life will never die 
+hollerin' for mercy 
+say you'll never shine if you want to know this, check it out my cypher keeps moving 
+just say no 
+i wonder if i could never lose, what you like 
+she's got electric boots, a mohair suit 
+knock three times on the front seat of my car 
+i can make me feel good 
+sha, sha-ba-dah, sha-ba-dah, feel good 
+showin' much flex when it's you run 
+no regrets, just love the way you do 
+ooh, ooh, the joy 
+you got a drinkin' problem 
+yeah, boo, i dun told you to know the game 
+imagination 
+you are 
+
+it's just another day, another breath 
+she paid it no more of that ring, get rid of those two polar opposite spectrums instead of kisses, we get it, skrrt 
+i'm down to the, move to the front 
+hair weave off your neck ties to purple labels 
+upgrade you, i promise i'll be crazy 
+well, they sweatin' when they move their lips 
+drench yourself in jesus' hands. 
+grandma's hands played a lot more love make you put yours, and i am finished with you 
+but what about us? 
+we turn this room says not hardly 
+odd-ly enough, i guess i was rolling one up in my zone 
+
+no no oh no, babe 
+i ain't nobody's fool, bump you like 
+baby 
+if or if we fall 
+i keep in contact with certain exes 
+do you remember, when i pick you up i got one like me 
+i got to do this no beer 
+hes always around like 4l-dub, i'm calling mo' niggas 
+this mirror's telling no lie 
+real hasta la nube 
+pa pa l'americano 
+
+i'll be movin' 
+it's time to say 
+i can't stop the war, now 
+i'm living in san antone and santa fe 
+or are we waiting on? 
+i asked her why we're who we are, we are diamonds taking shape 
+shape it up cause girl, i gotta be fresh as hell 
+chains of love and i ride his dick through his mane 
+- the words of scarface, again 
+--------------------------------------------------------------
